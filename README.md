@@ -2,6 +2,8 @@
 A simple script to render a given array as a graph in the terminal.
 
 ## Example
+Original:
+Made by Congraph:
 ```
 10	                            /\    /\ ^            
 9	                    ^      /    ^   v \         /-
