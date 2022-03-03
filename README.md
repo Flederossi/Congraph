@@ -2,11 +2,11 @@
 A simple script to render a given array as a graph in the terminal.
 
 ## Example
-Original:
+#### Original:
 
 ![alt text](https://github.com/Flederossi/Congraph/blob/main/Screen.png)
 
-Made by Congraph:
+#### Made by Congraph:
 ```
 10	                            /\    /\ ^            
 9	                    ^      /    ^   v \         /-
