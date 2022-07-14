@@ -2,7 +2,7 @@
 A simple script to render a given array as a graph in the terminal.
 
 ## Example
-You can find a example script with a random terrain generator in the folder examples.
+You can find an example script with a random terrain generator in the folder examples.
 
 #### Original:
 
